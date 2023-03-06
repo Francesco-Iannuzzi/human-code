@@ -9,13 +9,13 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 - Cerco la pizzeria
 - SCORRO tra le varie opzioni su Google
     - ? SE la pizzeria è aperta
-        - Pronoto un tavolo
+        - Prenoto un tavolo
     - : ALTRIMENTI
         - continuo a cercare
-- Vado in pizzaria
+- Vado in pizzeria
 - Guardo il listino
 - SCORRO il listino
-    - ? SE Prosciutto e Funghi
+    - ? SE scelgo Prosciutto e Funghi
         - Ordino quella pizza
     - : ALTRIMENTI
         - continuo a scorrere
@@ -32,11 +32,11 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     - : ALTRIMENTI
         - aspetto la pizza
 - Arriva la pizza
-- Inizio a mangiare
+- Taglio la pizza
     - ? SE è troppo calda
         - soffio
     - : ALTRIMENTI
-        - inio a mangiare
+        - inizio a mangiare
 - FINTANTO CHE ho la pizza nel piatto
     - ? SE ho ancora fame (per ogni fetta di pizza)
 - FINTANTO CHE ho la pizza nel piatto (per ogni fetta di pizza)
