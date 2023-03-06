@@ -1,0 +1,50 @@
+# HUMAN CODE
+
+## Ordinare una pizza
+
+- Ho voglia di una pizza
+- Cerco la pizzeria
+- SCORRO tra le varie opzioni su Google
+    - SE la pizzeria è aperta
+        - Pronoto un tavolo
+    - ALTRIMENTI
+        - continuo a cercare
+- Vado in pizzaria
+- Guardo il listino
+- SCORRO il listino
+    - SE Prosciutto e Funghi
+        - Ordino quella pizza
+    -  ALTRIMENTI
+        - continuo a scorrere
+- Consulto gli altri componenti del tavolo
+    - SE tutti hanno scelto la pizza
+        - Chiamo il cameriere
+    - ALTRIMENTI
+        - Attendo i miei amici
+- Chiamo il cameriere
+- Ordino la pizza
+- Attendo la pizza
+    - SE ho tanta fame
+        - mangio i grissini
+    - ALTRIMENTI
+        - aspetto la pizza
+- Arriva la pizza
+- Inizio a mangiare
+    - SE è troppo calda
+        - soffio
+    - ALTRIMENTI
+        - inio a mangiare
+- FINTANTO CHE ho la pizza nel piatto
+    - SE ho ancora fame (per ogni fetta di pizza)
+- FINTANTO CHE ho la pizza nel piatto (per ogni fetta di pizza)
+    - SE ho ancora fame 
+        - Vado avanti a mangiare
+    - ALTRIMENTI
+        - avanzo la restante
+        - SE sono in macchina
+            - porto a casa il resto della pizza
+        - ALTRIMENTI
+            - Lascio la pizza al ristorante
+- Torno a casa
+    - SE ho portato a casa la pizza
+        - La metto in frigo
